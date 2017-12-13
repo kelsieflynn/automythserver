@@ -3,7 +3,7 @@
 #No, its not "real" solid coding I would prefer, like C/C++, but It will be one day. I have a lot to work out before that.
 #Yes, it still lacks validation in areas where the scripts could fail, I only addressed the common case failures, NOT THE WEIRD and more difficult ones (at least for me), eg. like what happens when your HDHR is GOING OFF/ONLINE randomly due to network errors or you unplugging it during a script detection, I have not figured that out yet. It will miss your device if the script does not see it when it starts up.
 #This the best I can do right now. I'll fix more after Christmas If it's important enough.
-#I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others, but I do share and give back, I did this part all by myself, because I enjoyed it, Contrary to what other peoples opinions may be I like shell scripting/C/C++ and I will continue to do this.
+#I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others, but I do share and give back, I did this part all by myself, because I enjoyed it, Contrary to what other peoples opinions may be,  I like shell scripting/C/C++ and I will continue to do this.
 
 #I consider All my work previous computer science work before this was practice, as this was my first serious shell script project, that I've shared publically.
 #I'm not a professionally trained computer science person, I'm a hobbyist, GED is my current highest education. 
