@@ -7,7 +7,7 @@
 
 #I consider All my work previous computer science work before this was practice, as this was my first serious shell script project, that I've shared publically.
 #I'm not a professionally trained computer science person, I'm a hobbyist, GED is my current highest education. 
-#I taught myself and picked the rest up or I learn on the fly. You will find knowledge gaps and errors.
+#I taught myself, learned some on the job(s) and picked the rest up or I have to learn on the fly. You will find knowledge gaps and errors.
 #My coding skills will get better as I really enjoy working out the steps and then seeing the results later.
 #below is the readme from (SF, where you can download the ISOs, for now)
 
