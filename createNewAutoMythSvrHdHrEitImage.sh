@@ -1,4 +1,5 @@
 #!/bin/sh
+#this increments on each build
 BUILD=68;#++
 nextBUILD=$((++BUILD))
 DATESTAMP=`date +%Y%m%d`
