@@ -1,7 +1,7 @@
 #The automythsvr-eit-stages are where the main coding is, that makes the automythsvr project work, a shell script installer program. 
 #The live config also has a lot still in it related to setting up the ISO, but this is the portion I feel others might want to look at.
 #No, its not "real" solid coding I would prefer, like C/C++, but It will be one day. I have a lot to work out before that.
-#Yes, it still lacks validation in areas where the scripts could fail, I only addressed the common case failures, NOT THE WEIRD and more difficult once for me, like what happens when your HDHR is GOING OFF/ONLINE, I have not figured that out yet.
+#Yes, it still lacks validation in areas where the scripts could fail, I only addressed the common case failures, NOT THE WEIRD and more difficult ones (at least for me), eg. like what happens when your HDHR is GOING OFF/ONLINE randomly due to network errors or you unplugging it during a script detection, I have not figured that out yet. It will miss your device if the script does not see it when it starts up.
 #This the best I can do right now. I'll fix more after Christmas If it's important enough.
 
 #All my work previous computer science work before this was practice. 
