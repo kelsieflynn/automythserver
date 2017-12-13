@@ -1,0 +1,16 @@
+[Unit]
+Description=AutoMythSvr Stage3  
+After=rsyslog.service mariadb.service network-online.target lightdm.service NetworkManager.service automythsvr-eit-stage2.install.service
+ConditionPathExists=/home/mythtv/STAGE2.READY
+Requires=mariadb.service network-online.target
+Before=time-sync.target
+Wants=time-sync.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/automythsvr-eit-stage3.sh
+User=mythtv
+Environment="DISPLAY=:0"
+
+[Install]
+WantedBy=multi-user.target
