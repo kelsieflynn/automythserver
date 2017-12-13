@@ -1,6 +1,10 @@
-#The automythsvr-eit-stages are where the main coding is, that makes the automythsvr project work, a shell script installer program. The live config also has a lot still in it related to setting up the ISO, but this is the portion I feel others might want to look at. No, its not "real" solid coding  like C/C++, but It will be one day. I have a lot to work out before that.
-#All my work before this was practice. This is my first serious shell script project, that I've shared. I'm not a professionally trained computer science person, I'm a hobbyist, GED is my current highest education. I taught myself and picked the rest up or I learn on the fly. My coding skills will get better as I really enjoy working out the steps and then seeing the result later.
-
+#The automythsvr-eit-stages are where the main coding is, that makes the automythsvr project work, a shell script installer program. 
+#The live config also has a lot still in it related to setting up the ISO, but this is the portion I feel others might want to look at.
+#No, its not "real" solid coding  like C/C++, but It will be one day. I have a lot to work out before that.
+#All my work before this was practice. This is my first serious shell script project, that I've shared. 
+#I'm not a professionally trained computer science person, I'm a hobbyist, GED is my current highest education. 
+#I taught myself and picked the rest up or I learn on the fly. 
+#My coding skills will get better as I really enjoy working out the steps and then seeing the results later.
 #below is the readme from (SF, where you can download the ISOs, for now)
 
 Welcome to Automythsvr HDHR EIT!
@@ -157,7 +161,7 @@ A. Surely!
 	When your done updating conky, within seconds your desktop conky should refresh and show your IP again.
 	
 Q. How can I regnerate new VPN client certificates?
-A. Use the script as sudo: /usr/bin/createNewClientCert.sh
+A. NOTDONE.Use the script as sudo: /usr/bin/createNewClientCert.sh
 
 Q. Can I run yum update to keep my kernel/other critical security packages up to date?
 A. Yes, manually and very carefully until we work out any unforseen problems.
