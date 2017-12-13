@@ -208,6 +208,6 @@ Simple @reboot cron job append will work once I setup my scripts.
 
 Testing: I've done most all my testing in virtualization, kvm.
 I did a few tests on older chromeboxes and it worked. 
-I have no idea if it will boot on apple/mac or not, I put the rpms in the lineup, but I have no new mac to test it against right now.
+I have no idea if it will boot on apple/mac or not, I put the rpms in the lineup, but I have no newer mac to test it against right now.
 
 
