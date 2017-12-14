@@ -1,17 +1,45 @@
-#The automythsvr-eit-stages are where the main coding is, that makes the automythsvr project work, a shell script installer program. 
-#The live config also has a lot still in it related to setting up the ISO, but this is the portion I feel others might want to look at.
-#No, its not "real" solid coding I would prefer, like C/C++, but It will be one day. I have a lot to work out before that.
-#Yes, it still lacks validation in areas where the scripts could fail, I only addressed the common case failures, NOT THE WEIRD and more difficult ones (at least for me), eg. like what happens when your HDHR is GOING OFF/ONLINE randomly due to network errors or you unplugging it during a script detection, I have not figured that out yet. It will miss your device if the script does not see it when it starts up.
-#This the best I can do right now. I'll fix more after Christmas If it's important enough.
-#I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others, but I do share and give back, I did this part all by myself, because I enjoyed it, Contrary to what other peoples opinions may be,  I like shell scripting/C/C++ and I will continue to do this. Any references to "we" in my work are wishful future thinking at this time. One day I expect to write it well enought that no one can tell I wrote it, the point is because of my stigma's I want to write my code anonymously, yet open source. So NO ONE can say what I do is NOT worthy OVER and OVER, just because of my hard life and responses. I look forward to it. It must be like being a real word writer that uses pen names, it gives you some sort of validation when you do something people can't automatically prejudge as by a person they already heard of are deemed unworthy. I get now why some of the reasons writers use pens names. Privacy, validation,
-seeded objectiveness.
+The automythsvr-eit-stages are where the main coding is, that makes the automythsvr project work, a shell script installer program. The live config also has a lot still in it related to setting up the ISO, but this is the portion I feel others might want to look at.
+
+No, its not "real" solid coding I would prefer, like C/C++, but It will be one day. The scripts have a lot left to work out before that can start.
+Yes, it still lacks validation in areas where the scripts could fail, I only addressed the common case failures, NOT THE WEIRD and more difficult ones (at least for me), eg. like what happens when your HDHR is GOING OFF/ONLINE randomly due to network errors or you unplugging it during a script detection, I have not figured that out yet. It will miss your device if the script does not see it when it starts up.
+
+This the best I can do right now. I'll fix more after Christmas If it's important enough.
+
+Regarding interacting with me,
+This is the short version!
+I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others as well as most.
+However, I do share and give back. I did this project solo so far because I enjoyed it and it's even theraputic for me.
+Contrary to what other peoples opinions may be about my wide interests, I really like shell scripting/C/C++ and I will continue to do this.  One day I expect to write it well enought that no one can tell I wrote it, the point is because of my stigma's I want to write my code anonymously, yet open source. So no one can say what I do is not worthy over and over, just because of my hard life and responses. Many wish to exile all those with mental difficulties from common social areas. Many of you work/live with mentally ill people every day whom are in denial. Perhaps they are that quiet person that never talks, then all of sudden when they do talk it appears over the top. Or perhaps its the person that talks all the time about every single piece of information that floats by their minds. Or perhaps its the person that crys or laughts out of no where from some unknown trigger over a slightly harsh comment. Or the person that is always harsh to others and seems to have no empathy. Or perhaps its the person that judges externally outward all the time and hardly ever self reflects. Get my point?
 
 
-#I consider All my work previous computer science work before this was practice, as this was my first serious shell script project, that I've shared publically.
-#I'm not a professionally trained computer science person, I'm a hobbyist, GED is my current highest education. 
-#I taught myself, learned some on the job(s) and picked the rest up or I have to learn on the fly. You will find knowledge gaps and errors.
-#My coding skills will get better as I really enjoy working out the steps and then seeing the results later.
-#below is the readme from (SF, where you can download the ISOs, for now)
+Why would I put this personal info here? I know what many have told you, this is not a place for personal whatever.
+A) This is not the workplace.
+B) Even in the workplace you talk and know personal things about one another though visual observance before you talk.
+C) Many people just get uncomfortable with the idea because they like to pack their emotions in another compartment.
+D) When you meet strangers in public humans generally are on their best behavior, in this environment its not the same.
+E) I and other people with personality issues such as Bi-polar don't intend to be "adverserial or abrasive", but generally I think I can say my crazy brothers and sisters may have higher expectations than others about interactions.
+F) Just like a Autustic person can overload, other disorders have similar problems.
+I think I've covered this good enough for now or else I'll write a book in the middle of a shell script. 
+
+
+
+Other Warnings:
+My scripting skills I consider all my work previous computer science work before this was practice, as this was my first serious shell script project.
+I'm not a professionally trained computer science person, I'm a hobbyist though I worked in IT years ago.
+GED is my current highest education so easy on the judgements, your lucky I can type. :)
+I taught myself what I know through reading, or learned some on the job(s) and picked the rest up. 
+I have to learn on the fly often as I'm sure I have in common with many of you. 
+You will find knowledge gaps and errors.
+However, there is some hope, I'm cursed with a desire of perfection. Which means, I change fast as I learn.
+I really enjoy working out the steps and then seeing the results later.
+
+
+
+Back to the fun stuff you likely care about more than my mental problems...:
+
+
+Below is the readme from (SF, where you can download the ISOs, for now)
+*Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name after first. Then I changed my mind after much thought.
 
 Welcome to Automythsvr HDHR EIT!
 ATSC OTA 8vsb Build.
