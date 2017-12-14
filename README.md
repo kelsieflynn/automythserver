@@ -244,6 +244,6 @@ Testing: I've done most all my testing in virtualization, kvm.
 I did a few tests on older chromeboxes and it worked. 
 I have no idea if it will boot on apple/mac or not, I put the rpms in the lineup, but I have no newer mac to test it against right now.
 
-*Yes, I can see I'm going to have to improve a lot on markdown language here.
+*Yes, I can see I'm going to have to improve a lot on markdown language here
 
 
