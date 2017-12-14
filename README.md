@@ -1,16 +1,26 @@
-The automythsvr-eit-stages are where the main coding is, that makes the automythsvr project work, a shell script installer program. The live config also has a lot still in it related to setting up the ISO, but this is the portion I feel others might want to look at.
+The automythsvr-eit-stages are where the main coding is, that makes the automythsvr project work. It's a rather simple shell script installer program with examples I took straight from the book(s) and modified for my use.
+Also note these scripts were not designed to be used seperately originally, but I will work to make them more distro agnostic. The live config also has a lot still in it related to setting up the ISO, but its quite boring stuff that I just didn't put in a rpm yet.
 
-No, its not "real" solid coding I would prefer, like C/C++, but It will be one day. The scripts have a lot left to work out before that can start.
-Yes, it still lacks validation in areas where the scripts could fail, I only addressed the common case failures, NOT THE WEIRD and more difficult ones (at least for me), eg. like what happens when your HDHR is GOING OFF/ONLINE randomly due to network errors or you unplugging it during a script detection, I have not figured that out yet. It will miss your device if the script does not see it when it starts up.
+It's not "real" solid coding I know, I would prefer it be done in C/C++. However, the scripts have a lot left to work out before that can start. Eg. Static db entries in stage1 need to be seperated out into dynamic commands just in case something upstream changes fast.
 
-This the best I can do right now. I'll fix more after Christmas If it's important enough.
+The scripts still lack validation in areas, and could have failure points I didnt anticipate anywhere. I only addressed the common case failures, NOT THE WEIRD and more difficult ones (at least for me).Eg. Like what happens when your HDHR is GOING OFF/ONLINE randomly due to network errors or you unplugging it during a script detection, I have not figured that out yet. As of now, the script will miss your device if its not seen at the beginning of startup.
 
-Regarding interacting with me,
+This the best I can do right now. I have to learn some more about advanced shell scripting.
+I'll fix more after Christmas If it's important enough though...
 
+
+Regarding interacting with me, if any.
 This is the short version!
 I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others as well as most.
 However, I do share and give back. I did this project solo so far because I enjoyed it and it's even theraputic for me.
-Contrary to what other peoples opinions may be about my wide interests, I really like shell scripting/C/C++ and I will continue to do this.  One day I expect to write it well enought that no one can tell I wrote it, the point is because of my stigma's I want to write my code anonymously, yet open source. So no one can say what I do is not worthy over and over, just because of my hard life and responses. Many wish to exile all those with mental difficulties from common social areas. Many of you work/live with mentally ill people every day whom are in denial. Perhaps they are that quiet person that never talks, then all of sudden when they do talk it appears over the top. Or perhaps its the person that talks all the time about every single piece of information that floats by their minds. Or perhaps its the person that crys or laughts out of no where from some unknown trigger over a slightly harsh comment. Or the person that is always harsh to others and seems to have no empathy. Or perhaps its the person that judges externally outward all the time and hardly ever self reflects. Get my point?
+Contrary to what other peoples opinions may be about my wide interests, I really like shell scripting/C/C++ and I will continue to do this.  One day I expect to write it well enought that no one can tell I wrote it, the point is because of my stigma's I want to write my code anonymously, yet open source. So no one can say what I do is not worthy over and over, just because of my hard life and responses. Many wish to exile all those with mental difficulties from common social areas. 
+ Many of you work/live with mentally ill people every day whom are in denial. 
+ Perhaps they are that quiet person that never talks, then all of sudden when they do talk it appears over the top. 
+ Or perhaps its the person that talks all the time about every single piece of information that floats by their minds. 
+ Or perhaps its the person that crys or laughts out of no where from some unknown trigger over a slightly harsh comment. 
+ Or the person that is always harsh to others and seems to have no empathy. 
+ Or perhaps its that person whom you think has the biggest ego in the room, yet everyone suspects has the opposite, as insecurities.
+ Or perhaps its the person that judges externally outward all the time and hardly ever self reflects. Get my point?
 
 
 Why would I put this personal info here? I know what many have told you, this is not a place for personal whatever.
