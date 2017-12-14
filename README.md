@@ -44,7 +44,7 @@ I have to learn on the fly often as I'm sure I have in common with many of you.
 You will find knowledge gaps and errors.
 However, there is some hope, I'm cursed with a desire of perfection. Which means, I change fast as I learn.
 
-I think I've covered this good enough for now or else I'll write a book in the middle of a shell script. 
+I think I've covered this good enough for now or else I'll write a book in the middle of a shell script readme file. 
 
 Below is the readme from (SF, where you can download the ISOs, for now)
 *Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name after first. Then I changed my mind after much thought.
