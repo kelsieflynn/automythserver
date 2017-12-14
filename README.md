@@ -6,6 +6,7 @@ Yes, it still lacks validation in areas where the scripts could fail, I only add
 This the best I can do right now. I'll fix more after Christmas If it's important enough.
 
 Regarding interacting with me,
+
 This is the short version!
 I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others as well as most.
 However, I do share and give back. I did this project solo so far because I enjoyed it and it's even theraputic for me.
