@@ -31,7 +31,7 @@ Lucky for us all I'm limiting this to my readme and not the actual scripts, scri
 2. Even in the workplace you talk and know personal things about one another though visual observance before you talk.
 3. Many people just get uncomfortable with the idea because they like to pack their emotions in another compartment.
 4. When you meet strangers in public humans generally are on their best behavior, in this environment its not the same.
-5. I and other people with personality issues such as Bi-polar don't intend to be "adverserial or abrasive", but generally 	  6. I think I can safely say many have higher expectations than others about interactions, I am one.
+5. I and other people with personality issues such as Bi-polar don't intend to be "adverserial or abrasive", but generally 	  6. I think I can safely say many have higher expectations than others about interactions, I am one, some are carefree about them. We are not all cut from the same cloth.
 7. Keep in mind, just like a Autustic person can overload at times, other disorders have similar problems with interactions.
 
 
