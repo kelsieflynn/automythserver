@@ -14,15 +14,12 @@ Contrary to what other peoples opinions may be about my wide interests, I really
 
 
 Why would I put this personal info here? I know what many have told you, this is not a place for personal whatever.
-A) This is not the workplace.
-B) Even in the workplace you talk and know personal things about one another though visual observance before you talk.
-C) Many people just get uncomfortable with the idea because they like to pack their emotions in another compartment.
-D) When you meet strangers in public humans generally are on their best behavior, in this environment its not the same.
-E) I and other people with personality issues such as Bi-polar don't intend to be "adverserial or abrasive", but generally I think I can say my crazy brothers and sisters may have higher expectations than others about interactions.
-F) Just like a Autustic person can overload, other disorders have similar problems.
-I think I've covered this good enough for now or else I'll write a book in the middle of a shell script. 
-
-
+1. This is not the workplace.
+2. Even in the workplace you talk and know personal things about one another though visual observance before you talk.
+3. Many people just get uncomfortable with the idea because they like to pack their emotions in another compartment.
+4. When you meet strangers in public humans generally are on their best behavior, in this environment its not the same.
+5. I and other people with personality issues such as Bi-polar don't intend to be "adverserial or abrasive", but generally 	  6. I think I can safely say many have higher expectations than others about interactions, I am one.
+7. Keep in mind, just like a Autustic person can overload at times, other disorders have similar problems with interactions.
 
 Other Warnings:
 My scripting skills I consider all my work previous computer science work before this was practice, as this was my first serious shell script project.
@@ -32,12 +29,8 @@ I taught myself what I know through reading, or learned some on the job(s) and p
 I have to learn on the fly often as I'm sure I have in common with many of you. 
 You will find knowledge gaps and errors.
 However, there is some hope, I'm cursed with a desire of perfection. Which means, I change fast as I learn.
-I really enjoy working out the steps and then seeing the results later.
 
-
-
-Back to the fun stuff you likely care about more than my mental problems...:
-
+I think I've covered this good enough for now or else I'll write a book in the middle of a shell script. 
 
 Below is the readme from (SF, where you can download the ISOs, for now)
 *Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name after first. Then I changed my mind after much thought.
