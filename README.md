@@ -28,11 +28,11 @@ I know what many have told you, this is not a place for personal whatever.
 Lucky for us all I'm limiting this to my readme and not the actual scripts, scripts are all business, as 'they' say.
 
 1. This is not the workplace.
-2. Even in the workplace you talk and know personal things about one another though visual observance before you talk.
+2. Even in the workplace you can not help but know personal things about one another though visual observance, before you talk.
 3. Many people just get uncomfortable with the idea because they like to pack their emotions in another compartment.
 4. When you meet strangers in public humans generally are on their best behavior, in this environment its not the same.
-5. I and other people with personality issues such as Bi-polar don't intend to be "adverserial or abrasive", but generally 	  6. I think I can safely say many have higher expectations than others about interactions, I am one, some are carefree about them. We are not all cut from the same cloth.
-7. Keep in mind, just like a Autustic person can overload at times, other disorders have similar problems with interactions.
+5. I and other people with personality issues such as Bi-polar don't intend to be "adverserial or abrasive", but generally 	 I think I can safely say many have higher expectations than others about interactions, I am one. Conversely, some are carefree about them and care not to address uncomfortable talk, good plan if we were robots!.... We are not all cut from the same cloth.
+6. Keep in mind, just like a Autustic person can overload at times, other disorders have similar problems with interactions.
 
 
 Other Warnings:
