@@ -31,23 +31,15 @@ Lucky for us all I'm limiting this to my readme and not the actual scripts, scri
 2. Even in the workplace you can not help but know personal things about one another though visual observance, before you talk.
 3. Many people just get uncomfortable with the idea because they like to pack their emotions in another compartment.
 4. When you meet strangers in public humans generally are on their best behavior, in this environment its not the same.
-5. I and other people with personality issues such as Bi-polar don't intend to be "adverserial or abrasive", but generally 	 I think I can safely say many have higher expectations than others about interactions, I am one. Conversely, some are carefree about them and care not to address uncomfortable talk, good plan if we were robots!.... We are not all cut from the same cloth.
+5. I and other people with personality issues such as Bi-polar don't intend to be "adversarial or abrasive", but generally 	 I think I can safely say many have higher expectations than others about interactions, I am one. Conversely, some are carefree about them and care not to address uncomfortable talk, good plan if we were robots! We are not all cut from the same cloth.
 6. Keep in mind, just like a Autustic person can overload at times, other disorders have similar problems with interactions.
 
 
 Other Warnings:
-My scripting skills I consider all my work previous computer science work before this was practice, as this was my first serious shell script project.
-I'm not a professionally trained computer science person, I'm a hobbyist though I worked in IT years ago.
-GED is my current highest education so easy on the judgements, your lucky I can type. :)
-I taught myself what I know through reading, or learned some on the job(s) and picked the rest up. 
-I have to learn on the fly often as I'm sure I have in common with many of you. 
-You will find knowledge gaps and errors.
-However, there is some hope, I'm cursed with a desire of perfection. Which means, I change fast as I learn.
-
-I think I've covered this good enough for now or else I'll write a book in the middle of a shell script readme file. 
+My scripting skills I consider all my work previous computer science work before this was practice, as this was my first serious shell script project. I'm not a professionally trained computer science person, I'm a hobbyist though I worked in IT years ago as a admin and in help desk(s). GED is my 'current' highest education, so easy on the judgements, your lucky I can type. :) Seriously, I do have some IT Certs, but no computer science training. Fyi, most admin and help desk work is NOT computer science ojt. As I was told years ago by many potential employers and random peers, "not a engineer." You call me what you want then Engineers! Technician, whatever! Due to lack of enough formal mathematics and Com Sci backing me up, you will find knowledge gaps and errors in my hobby work. I enjoy Computer Science so much, that It's a life goal(top of the bucket list) that I finish somewhere with a least a ComSci Minor AA/AS Degree. I think I've covered this good enough for now or else I'll write a book in the middle of a shell script readme file. 
 
 Below is the readme from (SF, where you can download the ISOs, for now)
-*Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name after first. Then I changed my mind after much thought.
+*Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
 
 Welcome to Automythsvr HDHR EIT!
 ATSC OTA 8vsb Build.
