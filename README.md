@@ -56,7 +56,7 @@ x86_64 Compatible Computer:
 	At least one 32G storage device per Tuner is recommended.
 
 
-*1-8 SiliconDust or Compatible 2 or 4 Tuner ATSC Devices
+*1-8 SiliconDust or Compatible 2 or 4 Tuner ATSC(8vsb) Devices
 
 A Local Network With dhcpd server/hdhr device(s)
 	Only  vsb8, (typical US free air broadcast tv) is supported by the autoinstall
