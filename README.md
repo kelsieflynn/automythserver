@@ -257,6 +257,7 @@ Testing:
 	I did a few tests on older chromeboxes,chromebooks and a few netbooks and it works. 
 	I have no idea if it will boot on apple/mac or not, I put the rpms in the lineup, but I have no newer mac to test it 		against right now.
 
-	*I'm working to improve the markdown language here for readability.
+	
+*I'm working to improve the markdown language here for readability.
 
 
