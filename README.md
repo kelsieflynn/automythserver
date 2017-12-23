@@ -10,7 +10,7 @@ I'll fix more after Christmas If it's important enough though...
 
 Regarding interacting with me, if any. 
 	
-	Just skip down to "Welcome to Automythsvr HDHR EIT!" If you don't plan on interacting with me.
+	Just skip down to "Welcome to Automythsvr HDHR EIT!" If you don't plan on interacting with me. Yes I come with a disclaimer, live with it! If this bothers you that much, You probably should come with your own disclaimer.
 
 This is the short version!
 I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others as well as most.
