@@ -41,7 +41,7 @@ My scripting skills I consider all my work previous computer science work before
 
 Below is the readme from (SF, where you can download the ISOs, for now)
 *Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
-...
+
 ...
 
 Welcome to Automythsvr HDHR EIT!
