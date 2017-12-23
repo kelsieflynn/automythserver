@@ -41,6 +41,8 @@ My scripting skills I consider all my work previous computer science work before
 Below is the readme from (SF, where you can download the ISOs, for now)
 *Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
 
+...
+
 Welcome to Automythsvr HDHR EIT!
 ATSC OTA 8vsb Build.
 
@@ -50,44 +52,42 @@ Build Code named:  "XMas Gift2"
 
 AutoMythSvr Installer Requirements:
 
-x86_64 Compatible Computer:
+	x86_64 Compatible Computer:
 	At least one ethernet connection, up to *4 supported.
 	Minimum 1G Ram recommended
 	At least one 32G storage device per Tuner is recommended.
+	*1-8 SiliconDust or Compatible 2 or 4 Tuner ATSC(8vsb) Devices
 
-
-*1-8 SiliconDust or Compatible 2 or 4 Tuner ATSC(8vsb) Devices
-
-A Local Network With dhcpd server/hdhr device(s)
+	A Local Network With dhcpd server/hdhr device(s)
 	Only  vsb8, (typical US free air broadcast tv) is supported by the autoinstall
 	at this time due to the stage 1 8vsb db preload.(The next release is slated to have
 	pre-install selection option to use qam or different types other than 8vsb.)
 
 Optionally:
-*1 AP Capable WIFI device to use as a Wireless Access Point.
+	
+	*1 AP Capable WIFI device to use as a Wireless Access Point.
 
 
 Special Considerations:
-*Only 1 video input source will be configured automatically. The installers Configuration expects
- you have one common antenna connected to all your active Tuners. 
-*Array of Antennas Multiplexed okay as well.
+
+	*Only 1 video input source will be configured automatically. The installers Configuration expects
+ 	you have one common antenna connected to all your active Tuners. 
+	*Array of Antennas Multiplexed okay as well.
 
 
 Software Environment:
-Ent.Linux 7.4
-Configured with additional software from repos:
-elrepo, epel, rpmfusion and automyth_repo
+
+	Ent.Linux 7.4
+	Configured with additional software from repos:
+	elrepo, epel, rpmfusion and automyth_repo
 
 
-mythtv-0.28.1 g36fe0ce 
-mythplugins: mytharchive,mythmusic,mythgallery,mythzoneminder
-OpenVPN
-IceWM with Components from Xfce4
-Chromium v61.0.3163.100 
-PhpMyAdmin
-
-
-
+	mythtv-0.28.1 g36fe0ce 
+	mythplugins: mytharchive,mythmusic,mythgallery,mythzoneminder
+	OpenVPN
+	IceWM with Components from Xfce4
+	Chromium v61.0.3163.100 
+	PhpMyAdmin
 
 
 
@@ -112,21 +112,20 @@ with database reconfigured for direct network client/server mode bypassing vpn.
 
 
 #pre-configured accounts
-Password for mysql root dbadmin=
-Password for root=automythg36
-Password for mythtv=mythtv
-*mythtv has full sudo powers!
-User/Password for phpMyAdmin=mythtv
+	
+	Password for mysql root dbadmin=
+	Password for root=automythg36
+	Password for mythtv=mythtv
+	*mythtv has full sudo powers!
+	User/Password for phpMyAdmin=mythtv
 
 
 While in the Live Session on the first boot;
 From a terminal as root or sudo, you can install the liveimg anytime by running :
-
-liveinst
-
+`liveinst`
 from the cmd line in terminal
-or by clicking "Install to Hard Drive" from ,
-the ICEWM startmenu > System > "Install to Hard Drive"
+or by clicking `"Install to Hard Drive"` from ,
+the ICEWM startmenu > System > `"Install to Hard Drive"`
 
 
 
