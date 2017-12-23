@@ -42,7 +42,7 @@ My scripting skills I consider all my work previous computer science work before
 Below is the readme from (SF, where you can download the ISOs, for now)
 *Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
 
-...
+***
 
 Welcome to Automythsvr HDHR EIT!
 ATSC OTA 8vsb Build.
@@ -128,6 +128,7 @@ While in the Live Session on the first boot;
 From a terminal as root or sudo, you can install the liveimg anytime by running :
 	
 	`liveinst`
+	
 from the cmd line in terminal
 or by clicking `"Install to Hard Drive"` from ,
 the ICEWM startmenu > System > `"Install to Hard Drive"`
