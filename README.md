@@ -8,8 +8,10 @@ The scripts still lack validation in areas, and could have failure points I didn
 This the best I can do right now. I have to learn some more about advanced shell scripting.
 I'll fix more after Christmas If it's important enough though...
 
+Regarding interacting with me, if any. 
+	
+	Just skip down to "Welcome to Automythsvr HDHR EIT!" If you don't plan on interacting with me.
 
-Regarding interacting with me, if any.
 This is the short version!
 I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others as well as most.
 However, I do share and give back. Ocassionaly I find a person that tolerates me but I've always been a overly sensitive rebel loner, even before I acknowledged my mental difficulties. I did this project solo so far because I enjoyed it and it's even theraputic for me. Contrary to what other peoples opinions may be about my wide interests, I really like shell scripting/C/C++ and I will continue to do this.  One day I expect to write it well enought that no one can tell I wrote it, the point is because of my stigma's I want to write my code anonymously, yet open source. So no one can say what I do is not worthy over and over, just because of my hard life and responses. Many wish to exile all those with mental difficulties from common social areas. 
@@ -39,7 +41,7 @@ My scripting skills I consider all my work previous computer science work before
 
 Below is the readme from (SF, where you can download the ISOs, for now)
 *Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
-
+...
 ...
 
 Welcome to Automythsvr HDHR EIT!
