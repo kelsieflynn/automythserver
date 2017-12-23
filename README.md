@@ -128,7 +128,7 @@ Pre-configured accounts:
 While in the Live Session on the first boot;
 From a terminal as root or sudo, you can install the liveimg anytime by running :
 	
-	`liveinst`
+	liveinst
 	
 from the cmd line in terminal
 or by clicking `"Install to Hard Drive"` from ,
@@ -185,19 +185,20 @@ Random FAQs:
 	A. Easily with the proper commands an proceedures!
    
    	Shutdown mythfrontend/mythbackend/mariadb services with : systemctl stop servicename
-   	`echo -bond0 > /sys/class/net/bonding_masters`
-   	`rmmod bonding`
+   		echo -bond0 > /sys/class/net/bonding_masters
+   		rmmod bonding
    	Remove the ifcfg-bond0 and ifcfg-ethX files from /etc/sysconfig/network-scripts/
    	Remove the file /etc/modules-load.d/bonding.conf
    	Update /etc/default/grub:  by removing the entries "biosdevname=0 net.ifnames=0" from stanza GRUB_CMDLINE_LINUX
    	Then run: 
-	`grub2-mkconfig -o /boot/grub/grub.cfg`
- 	or `grub2-mkconfig -o /boot/efi/EFI/redhat/grub.cfg` #if using EFI
-   	Then reboot and you using "Consistent Network Device Naming" again with no ethernet bonding.
+		grub2-mkconfig -o /boot/grub/grub.cfg
+ 	or if using EFI
+   		grub2-mkconfig -o /boot/efi/EFI/redhat/grub.cfg
+	Then reboot and you using "Consistent Network Device Naming" again with no ethernet bonding.
    	Finally, after reboot, sync up conkyrc with your default device name.
    	Eg. In the files: /etc/skel/.conkyrc & /home/mythtv/.conkyrc , change the reference near end of file from "bond0" to
     	"ens3" if your primary ethernet adapter is labeled "ens3". You can find the new device name easy from running
-     		`nmcli con show -a`
+     		nmcli con show -a
 	When your done updating conky, within seconds your desktop conky should refresh and show your IP again.
 	
 	Q. How can I regnerate new VPN client certificates?
@@ -217,7 +218,9 @@ Random FAQs:
 	A. Do the install.
 	
 		1)Let Automythsvr installer fail to end.
-		2)Remove the automythsvr-eit-stages rpm with `rpm -e automythsvr-eit-stages`
+		2)Remove the automythsvr-eit-stages rpm with 
+			
+			rpm -e automythsvr-eit-stages
 		3)Run mythtv-setup
   		
 			a) Run #1 Menu Option "General" and configure.
@@ -231,10 +234,11 @@ Random FAQs:
 
 	
 	Exit and make sure mythbackend/mythfrontend services are running.
-		`systemctl enable mythbackend service`
-		`systemctl start mythbackend service`
-		`systemctl enable mythfrontend service`
-	`	`systemctl start mythfrontend service`
+	
+		systemctl enable mythbackend service
+		systemctl start mythbackend service
+		systemctl enable mythfrontend service
+	`	systemctl start mythfrontend service
 
 
 Unfinished:
