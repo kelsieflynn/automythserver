@@ -97,7 +97,7 @@ Example scenario A:
 	
 	User install on a local home network with a router that provides dhcpd to a laptop
 	with one network card and one internal hard disk, and access to one dual tuner ATSC hdhr unit
-	connected to a single rabitt ears antenna. One user/family use model.
+	connected to a single "rabbit ears" type antenna. One user/family use model.
 
 
 Example  scenario B:
