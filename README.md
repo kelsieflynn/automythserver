@@ -264,5 +264,5 @@ Testing:
 	
 *I'm working to improve the markdown language here for readability.
 
-Note all files here are currently being called in scripts. Some are just stubs or templates intended for future use.
+Not all files here are currently being called in scripts. Some are just stubs or templates intended for future use.
 
