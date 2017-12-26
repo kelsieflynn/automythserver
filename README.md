@@ -6,7 +6,7 @@ It's not "real" solid coding I know, I would prefer it be done in C/C++. However
 The scripts still lack validation in areas, and could have failure points I didnt anticipate. I only addressed the common case failures, NOT THE WEIRD and more difficult ones (at least for me).Eg. Like what happens when your HDHR is GOING OFF/ONLINE randomly due to network errors or you unplugging it during a script detection, I have not figured that out yet. As of now, the script will miss your device if its not seen at the beginning of startup.
 
 This the best I can do right now. I have to learn some more about advanced shell scripting.
-I'll fix more after Christmas If it's important enough though...
+I'll add more features after Christmas, but I will address major bugfix requests as needed. 
 
 Regarding interacting with me, if any. 
 	
