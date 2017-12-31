@@ -1,4 +1,3 @@
-#I rarely use this script, REMOVE ME Soon?
 #!/bin/bash
 printf "cleaning up oldfiles and database"\\n\\n
 /usr/bin/am_resetMythconverg.sh
