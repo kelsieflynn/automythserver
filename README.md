@@ -23,12 +23,9 @@ If you are my enemy and want to use this information, let me help you more. I ne
 Now switch to the people that dont know me(almost everyone, you just read what I've wrote and formed your opinions from others opinions).
 I have been ostersized and downsized and critizied and last but not least stigmatized....Wa wah waaa. So what. I'm 47 years old
 and that's the best you could summate from a backwoods NON RECORDING JURISDICTION? Wow you impress and fool so easily.
-Did you really think I was going to go down by a  bunch of hillbilly overpaid unrecording MORONS? Even after I misteped and taked too much when I was angry? LOL Nope. I'm not done.
+Did you really think I was going to go down by the efforts of a bunch of hillbilly overpaid unrecording shameful MORONS? Even after I misteped and talked too much when I was angry? LOL Nope. I'm not done.
 I may be the strangest person you have ever heard of, still I'm me.
-You may not like my ways and methods but since I am not a criminal or pervert or even dangerous, other than my mouth....You can just enjoy, at will.
-Ocassionaly I find a person that tolerates me but I've always been a overly sensitive rebel loner, even before I acknowledged my mental difficulties. 
-
-I did this project solo so far because I enjoyed it and it's even theraputic for me. Contrary to what other peoples opinions may be about my wide interests, I really like shell scripting/C/C++ and I will continue to do this.  One day I expect to write it well enought that no one can tell I wrote it, the point is because of my stigma's I want to write my code anonymously, yet open source. So no one can say what I do is not worthy over and over, just because of my hard life and responses. Many wish to exile all those with mental difficulties from common social areas. 
+You may not like my ways and methods but since I am not a criminal or perverted or even dangerous, other than my mouth....You can just enjoy, at will. Ocassionaly I find a person that tolerates me but I've always been a overly sensitive rebel loner, even before I acknowledged my mental difficulties. I did this project solo so far because I enjoyed it and it's even theraputic for me. Contrary to what other peoples opinions may be about my wide interests, I really like shell scripting/C/C++ and I will continue to do this.  One day I expect to write it well enought that no one can tell I wrote it, the point is because of my stigma's I want to write my code anonymously, yet open source. So no one can say what I do is not worthy over and over, just because of my hard life and responses. Many wish to exile all those with mental difficulties from common social areas. 
  Many of you work/live with mentally ill people every day whom are in denial. 
  Perhaps they are that quiet person that never talks, then all of sudden when they do talk it appears over the top. 
  Or perhaps its the person that talks all the time about every single piece of information that floats by their minds. 
@@ -40,7 +37,8 @@ I did this project solo so far because I enjoyed it and it's even theraputic for
  Trust is something you learn, no what your given. If you grow up without trusting people and without a proper perception I'm sure a untrusting person would have a extremely difficult life. 
  Select Corporations and other powers that be want to bury the truths about mental health so deep that you could never comprehend that systems problems. I grew up watching the failures of the mental health systems in both of my parents,
  so you un-experienced know it alls, dont know jack about reality and applied human psychology when it comes to the case studies I have analyized starting at  5 years old. I also have always self-analysed as well, how else did you think I made it this far with two mentally ill parents, luck? You'd have to be nuts if you think I could have done as well as I have without it(reflection).
- 
+
+e-PILL or theSmurtPill?
 I have real problems with the new methods of medication monitoring. Abilify you suck, your opening the door to descriminate against the mentally ill, not just the "alleged dangerious ones either". With your technology combined with overzealous corupt 
 punishers will result in abuses of the patient. Is this your job Abilify? Profit while you appease everyone except the patient?
 MORONS with more greed for money than humanity, thats what you are. Sue me, if is not true. Prove it's not true if I said it you morons.
@@ -49,13 +47,41 @@ Take the greedy profit desires of a corporation thats facing competition from al
 Take corupt authorities in power in jurisdictions with weak governments.
 Take one mentally ill person that has not proven to be violent or dangererous, but has proven to have a big mouth that posts online very controversial but legal information. Lets say that person takes all people on at will no matter how famous or how
 protected a group may be, I dunno say a city manager or say the local pd.
-
 Now lets call that mentally ill person a Internet Protester and pretend they have the same rights as the constitution affords
 most.
-
 Can you see where a power shift is changing here?
 The corrupt system wants a method to shut down people from speaking about things the dont want said.
-They can't be jailed easily because usually it's political fallout.
+They can't be jailed easily because usually it's political fallout. The corupt systems can abuse the system except so far, and this is another TOOL for powerful bullies to violate others.
+
+We may be fat, and greedy in America but are we all MORONS too? Find a better way to deal with mentally ill, or your just
+repeating the past mistakes. 
+Stigma, shame and power manipulation against those that speak out but are "DIFFICULT" to stop.
+You think your/our children can escape the future that is being created? Your wrong, and later when reason TRUMPS over POWER/Control, YOUR DIRTY METHODS WILL BE REVERSED.
+
+
+The only way a democratic society should let Abilify(invasive) E-PILL is in a scenario of lawful judicial punishment. 
+Eg.
+Lets see a person has been convicted of a crime(in a honorable court of law that produces transcripts), and it has come out that the person has a mental defect.
+
+Give the criminally insane convicted a choice then, 
+A) Take your meds
+or 
+B) If your violent, we tell everyone your off your meds and due our social duty to the world.
+or
+C) Go to regular jail as a criminal and take your normal sentence.
+
+A/B: This while unethical would be more appropriate as a convicted criminal still can take A or B
+This would be a true representation about protecting society.
+
+Do it right abilify. Do your trials on prisoners and parollees, dont you dare LUMP sum everyone with a mental defect to your
+measures, its unethical and unconstitutional...
+Which infers as to why you sorry Ducks make it optional now for NON PRISONERS, cause you couldnt get approval for prisoners or that profit potential didnt appeal to you enough? Which is it? So you said, Screw it, lets get all Americans on this, that a lot more profitable and we can use everyones natural fear to help us sell.
+Wow, good plan if you didnt have any thinkers analysing your crap, what you call marketing.
+Enjoy your next three year run, MORONS.
+
+In this scenario, I could see where abilify epill could be justified. A convict has lost rights and while on probation or parole
+can be subjected. Outside of this, you need to find another way to profit, YOUR MORONS if NOT.
+
 
 Lets say you have a "Snowden" type that you would love to hush up and lucky for you, they live right here in the USA , still.
 ***You can keep up with this, your almost done.....***If you head hurts have a beer and come back to read later***
