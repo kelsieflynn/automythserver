@@ -11,7 +11,9 @@ I'll add more features after Christmas, but I will address major bugfix requests
 Regarding interacting with me, if any. 
 	
 	If you don't plan on interacting with me. 
-	Just skip down to below the horizontal rule at "Welcome to Automythsvr HDHR EIT!" Yes I come with a disclaimer, live with it! If this bothers you that much, You probably should come with your own disclaimer.
+	Just skip down to below the horizontal rule at "Welcome to Automythsvr HDHR EIT!" 
+	Yes I come with a disclaimer, live with it! If this bothers you that much, 
+		You probably should come with your own disclaimer.
 
 This is the short version!
 Some of this is what I wanted to say after I shut down my old site. Since I worked with Linux since about 1995, I figure I'm entitlied to use this site for my rants, if I so choose. I have code too :)
@@ -33,14 +35,14 @@ http://www.courts.oregon.gov/courts/Pages/other-courts.aspx
 Justice/Municipal Courts of Record
 In accordance with Senate Bill 267 (2007), justice or municipal courts that are currently, or will become, courts of record and those that cease operating as a court of record are to file a declaration to that effect with the Supreme Court for acknowledgement.
 
-Acknowledgements as Courts of Record:
+	Acknowledgements as Courts of Record:
 
-West Linn
-St. Helens
-Lake Oswego
-Beaverton
-Florence
-Milwaukie
+	West Linn
+	St. Helens
+	Lake Oswego
+	Beaverton	
+	Florence
+	Milwaukie
 
 
 
