@@ -18,111 +18,11 @@ Some of this is what I wanted to say after I shut down my old site. Since I work
 
 So here we go:
 
-I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others as well as most.
-If you are my enemy and want to use this information, let me help you more. I never was on it and never will be.
-Now switch to the people that dont know me(almost everyone, you just read what I've wrote and formed your opinions from others opinions).
-I have been ostersized and downsized and critizied and last but not least stigmatized....Wa wah waaa. So what. I'm 47 years old
-and that's the best you could summate from a backwoods NON RECORDING JURISDICTION? Wow you impress and fool so easily.
-Did you really think I was going to go down by the efforts of a bunch of hillbilly overpaid unrecording shameful MORONS? Even after I misteped and talked too much when I was angry? LOL Nope. I'm not done.
-I may be the strangest person you have ever heard of, still I'm me.
-You may not like my ways and methods but since I am not a criminal or perverted or even dangerous, other than my mouth....You can just enjoy, at will. Ocassionaly I find a person that tolerates me but I've always been a overly sensitive rebel loner, even before I acknowledged my mental difficulties. I did this project solo so far because I enjoyed it and it's even theraputic for me. Contrary to what other peoples opinions may be about my wide interests, I really like shell scripting/C/C++ and I will continue to do this.  One day I expect to write it well enought that no one can tell I wrote it, the point is because of my stigma's I want to write my code anonymously, yet open source. So no one can say what I do is not worthy over and over, just because of my hard life and responses. Many wish to exile all those with mental difficulties from common social areas. 
- Many of you work/live with mentally ill people every day whom are in denial. 
- Perhaps they are that quiet person that never talks, then all of sudden when they do talk it appears over the top. 
- Or perhaps its the person that talks all the time about every single piece of information that floats by their minds. 
- Or perhaps its the person that crys or laughts out of no where from some unknown trigger over a slightly harsh comment. 
- Or the person that is always harsh to others and seems to have no empathy. 
- Or perhaps its that person whom you think has the biggest ego in the room, yet everyone suspects has the opposite, as insecurities.
- Or perhaps its the person that judges externally outward all the time and hardly ever self reflects. Get my point?
- Human beings have problems, while I have only recently admitted I have bi-polar. I've only done this to open awareness that bipolar people are not all the creative genious's you desire. Most have social problems that have plenty to do with trust.
- Trust is something you learn, no what your given. If you grow up without trusting people and without a proper perception I'm sure a untrusting person would have a extremely difficult life. 
- Select Corporations and other powers that be want to bury the truths about mental health so deep that you could never comprehend that systems problems. I grew up watching the failures of the mental health systems in both of my parents,
- so you un-experienced know it alls, dont know jack about reality and applied human psychology when it comes to the case studies I have analyized starting at  5 years old. I also have always self-analysed as well, how else did you think I made it this far with two mentally ill parents, luck? You'd have to be nuts if you think I could have done as well as I have without it(reflection).
+I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others as well as most, I'm direct and say exactly what makes insecure people uncomforatable very often, call it a flaw. 
 
-e-PILL or theSmurtPill?
-I have real problems with the new methods of medication monitoring. Abilify you suck, your opening the door to descriminate against the mentally ill, not just the "alleged dangerious ones either". With your technology combined with overzealous corupt 
-punishers will result in abuses of the patient. Is this your job Abilify? Profit while you appease everyone except the patient?
-MORONS with more greed for money than humanity, thats what you are. Sue me, if is not true. Prove it's not true if I said it you morons.
-
-Take the greedy profit desires of a corporation thats facing competition from alternative therapies.
-Take corupt authorities in power in jurisdictions with weak governments.
-Take one mentally ill person that has not proven to be violent or dangererous, but has proven to have a big mouth that posts online very controversial but legal information. Lets say that person takes all people on at will no matter how famous or how
-protected a group may be, I dunno say a city manager or say the local pd.
-Now lets call that mentally ill person a Internet Protester and pretend they have the same rights as the constitution affords
-most.
-Can you see where a power shift is changing here?
-The corrupt system wants a method to shut down people from speaking about things the dont want said.
-They can't be jailed easily because usually it's political fallout. The corupt systems can abuse the system except so far, and this is another TOOL for powerful bullies to violate others.
-
-We may be fat, and greedy in America but are we all MORONS too? Find a better way to deal with mentally ill, or your just
-repeating the past mistakes. 
-Stigma, shame and power manipulation against those that speak out but are "DIFFICULT" to stop.
-You think your/our children can escape the future that is being created? Your wrong, and later when reason TRUMPS over POWER/Control, YOUR DIRTY METHODS WILL BE REVERSED.
-
-
-The only way a democratic society should let Abilify(invasive) E-PILL is in a scenario of lawful judicial punishment. 
-Eg.
-Lets see a person has been convicted of a crime(in a honorable court of law that produces transcripts), and it has come out that the person has a mental defect.
-
-Give the criminally insane convicted a choice then, 
-A) Take your meds
-or 
-B) If your violent, we tell everyone your off your meds and due our social duty to the world.
-or
-C) Go to regular jail as a criminal and take your normal sentence.
-
-A/B: This while unethical would be more appropriate as a convicted criminal still can take A or B
-This would be a true representation about protecting society.
-
-Do it right abilify. Do your trials on prisoners and parollees, dont you dare LUMP sum everyone with a mental defect to your
-measures, its unethical and unconstitutional...
-Which infers as to why you sorry Ducks make it optional now for NON PRISONERS, cause you couldnt get approval for prisoners or that profit potential didnt appeal to you enough? Which is it? So you said, Screw it, lets get all Americans on this, that a lot more profitable and we can use everyones natural fear to help us sell.
-Wow, good plan if you didnt have any thinkers analysing your crap, what you call marketing.
-Enjoy your next three year run, MORONS.
-
-In this scenario, I could see where abilify epill could be justified. A convict has lost rights and while on probation or parole
-can be subjected. Outside of this, you need to find another way to profit, YOUR MORONS if NOT.
-
-
-Lets say you have a "Snowden" type that you would love to hush up and lucky for you, they live right here in the USA , still.
-***You can keep up with this, your almost done.....***If you head hurts have a beer and come back to read later***
-
-Lets say this citizen protestor(Snowden like) is on Abilify with etracking. Authorities have been notified by the patients psychologist informally that a potentially dangerous person is off their medications.
-
-The complaints start coming into the local police department about this "Citizen Protestor" from the conservative side first.
-Then as the fear is spread like wildfire, they recruit more liberal thinkers into the mix.
-Once enough people fear a single person, its quite easy for them all to  agree on what they would like to happen, shut that person up.
-
-Since they are in this country and have volunteered for e-pill, they are now on the hot seat and likely harrassed at every local level possible.
-
-Now  you may be thinking, hey hold on, that's a great tool I wish all us non-recording cities in Oregon had....STOP
-you yourself can be on this dirty end of the stick too, just ask for help one day in the SYSTEM.
-
-This system appeases BIG PHARMA first, then it appeases psychologists whom dont want to take any blame or stigma from a potential patient going bezerk.  Then last but now least it will appease the enemies of any patient as all the locals have to do is say, "Yeah, Julie over at dispatch told us all, he/she is off their medication"....BAM pre-judged, sentenced and all they want now is you to GO AWAY, and they have most of the tools to force you.
-
-Meanwhile, all the people that thought they were doing the right thing. Get under the feet of the above, you dont matter. They will tell you, would you prefer we lock you up and give you shock treatment like the old days or do you want to take your epill
-and by the way, STOP POSTING POLITICALY ON THE INTERNET. 
-
-Now, I'm a creative person as many of you know, I'm also very logical. What you didnt know is that I've been taking the very same medication that works for me for over 30 years.  Now for you smart know it alls you might smuggy  laugh and say huh huh, we can all see that doesnt work. BUT YOUR WRONG, I have tried all the so called "mental health" medicinces from BIG PHARMA.
-
-My mother tried them, my father was forced to try them. That brain modifing crap does nothing for my happiness at any time because I'm broken in a way that ABILIFY and OTHER EASY FIX MEDs can NOT HELP. 
-
-I stay away from stimulants except  I flirt with coffee.
-I avoid stressful scenarios as much as possible, especially if my FEARDAR goes off. "FEARDAR? yes, its how I changed over the years to become overly sensitive. I didnt develop FEARDAR on purpose, it happened from growing up in small southern oppressive towns where everyone knew my parents and my history. I learned to become more introverted and not share make friends easy.
-I also had to temper this with a strong ethical base, which I luckily got from the very same people that pursecuted me.
-
-Look at it this way,
-Alabama is? or was overly religious and opppressive and highly descrimanatory about just about everything, when I grew up the first 19 years. Even given all that, I got plenty of love from a few good people along the way. They taught me what my parents could not, I had to learn the rest the hard way.
-
-Lets take  Oregon and compare to Alabama, has all the same compenents except extreme liberalism gets added to the mix.
-Also, take note OREGON has a BROKEN NON RECORDING SYSTEM OF LAWS for crimes below FELONIES, which leaves CORUPT POLITICIANS A GAPING HOLE TO ABUSE.
-
-I am a good person but flawed because of how I grew up in Alabama, had  I grew up in Oregon with all the horrible CRAP and lawless society. I likely would have become some kind of serial killer or at least a permanent mental patient in a Salem Oregon Asylum. According to statitics, which I beat already btw, I should have been much more of a criminal that Eugene Oregon ever claimed I was. Only problem is, I had a pretty great life of improvement before meeting the lawless city of Eugene Oregon.
-I had no idea a city or cities could charge, have a jury trial and even jail you without one single COURT RECORDING.
-Now I do, and so does all the enemies I made. They used that system against me for speaking out against their SO CALLED LOCAL HEROS.
-
-FFWD. Oregon is the REAL SHITHOLE because of what it does to children that grow up in that place. NOT other countries, our own SHITHOLES ARE RIGHT HERE, many are full of white trash with sub standard educations and exhuberant prideful egos. Yeah I said it, and I'm white. 
-
-
+How did I get so screwed up as of the past few years?
+Oregon.
+FYI. Oregon is the REAL SHITHOLE because of what it does to children that grow up in that place. NOT other countries, our own SHITHOLES ARE RIGHT HERE, many are full of white trash with sub standard educations and exhuberant prideful egos. Yeah I said it, and I'm white. 
 DO NOT TAKE YOUR FAMILY TO OREGON FOR ANY REASON OTHER THAN VACATIONS, unless you visit one of the HONORABLE 6 CITES that decided recording is a "GOOD THING". Oregon is a beautiful place with the craziest fauna you have ever seen. How do I know?
 Cites I lived in before Eugene were great.
 Austin,TX  Los Angeles, CA  Linden, UT  Orlando,FL Charleston,SC  Asheville,NC Birmingham,AL Phoenix,AZ Scottsdale,AZ
@@ -143,18 +43,13 @@ Florence
 Milwaukie
 
 
-Dont be fooled by my enemies whom are destined by greed and power to live the rest of their lives in Sodom or Ghomorah.
-I back up what I say.
-
-Eugene Oregon and its broken system and corupt managment made me as crazy as you deem me to be. Ask someone that knew me before Oregon, those liars had to re-write the truth. I exposed their flawed bullshit bully methods when they tried to pull that shit on me and all  the choice I left them was to VIOLATE ME AND MY FAMILY OVER AND OVER. I have evidense to prove it, video and statements and more. If I use it one day it will be in the Western US Federal District, not in a SORRY LITTLE HILLBILLY BACKWOODS NON REORDING STATE EITHER. My lawers will come from Cali to spank your unconstitutional shameful bully ways.
-
 
 Why would I put this personal info here? 
 Firstly, I love Linny's place so much and since he has called Oregon home just like me for a long time, I'm sure he wont mind anyway.
 
 I tried to give up Linny's kernel and failed, if you can't beat em , JOIN EM.
 Seriously, why did I fail so miserably with the BSD's and my projects?
-Because i'm not skilled enough in C/C++ yet.  So yeah, I'm back on the Redhat and Linny Bandwagon for now.
+Because i'm not skilled enough in C/C++ yet. I didnt complelty fail, I just realized the other kernels don't have all the man hours that have been put into Linux, which Linny did not do by himself.  So yeah, I'm back on the Redhat and Linny Bandwagon for now and I will return to xBSD more as my programming skills increase slowly.
 
 I know what many have told you, this is not a place for personal whatever.
 Lucky for us all I'm limiting this to my readme and not the actual scripts, scripts are all business, as 'they' say.
