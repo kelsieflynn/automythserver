@@ -4,9 +4,6 @@ Also note these scripts were not designed to be used seperately originally, but 
 It's not "real" solid coding I know, I would prefer it be done in C/C++. However, the scripts have a lot left to work out before that can start. Eg. Static db entries in stage1 need to be seperated out into dynamic commands just in case something upstream changes fast.
 
 The scripts still lack validation in areas, and could have failure points I didnt anticipate. I only addressed the common case failures, NOT THE WEIRD and more difficult ones (at least for me).Eg. Like what happens when your HDHR is GOING OFF/ONLINE randomly due to network errors or you unplugging it during a script detection, I have not figured that out yet. As of now, the script will miss your device if its not seen at the beginning of startup.
-
-This the best I can do right now. I have to learn some more about advanced shell scripting.
-I'll add more features after Christmas, but I will address major bugfix requests as needed. 
 *Moved my personal rants/opinions to my personal website(s). 	
 	
 Below is the readme from (SF, where you can download the ISOs, for now)
