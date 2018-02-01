@@ -7,70 +7,8 @@ The scripts still lack validation in areas, and could have failure points I didn
 
 This the best I can do right now. I have to learn some more about advanced shell scripting.
 I'll add more features after Christmas, but I will address major bugfix requests as needed. 
-
-Regarding interacting with me, if any. 
+*Moved my personal rants/opinions to my personal website(s). 	
 	
-	If you don't plan on interacting with me. 
-	Just skip down to below the horizontal rule at "Welcome to Automythsvr HDHR EIT!" 
-	Yes I come with a disclaimer, live with it! If this bothers you that much, 
-		You probably should come with your own disclaimer.
-
-This is the short version!
-Some of this is what I wanted to say after I shut down my old site. Since I worked with Linux since about 1995, I figure I'm entitlied to use this site for my rants, if I so choose. I have code too :)
-
-So here we go:
-
-I have bi-polar disorder and non-military PTSD and it's widley known, I don't 'PLAY WELL' with others as well as most, I'm direct and say exactly what makes insecure people uncomforatable very often, call it a flaw. 
-
-How did I get so screwed up as of the past few years?
-Oregon.
-FYI. Oregon is the REAL SHITHOLE because of what it does to children that grow up in that place. NOT other countries, our own SHITHOLES ARE RIGHT HERE, many are full of white trash with sub standard educations and exhuberant prideful egos. Yeah I said it, and I'm white. 
-DO NOT TAKE YOUR FAMILY TO OREGON FOR ANY REASON OTHER THAN VACATIONS, unless you visit one of the HONORABLE 6 CITES that decided recording is a "GOOD THING". Oregon is a beautiful place with the craziest fauna you have ever seen. How do I know?
-Cites I lived in before Eugene were great.
-Austin,TX  Los Angeles, CA  Linden, UT  Orlando,FL Charleston,SC  Asheville,NC Birmingham,AL Phoenix,AZ Scottsdale,AZ
-
-Heed what I say, not all places and cities in Oregon are bad, just all but 6.
-http://www.courts.oregon.gov/courts/Pages/other-courts.aspx
-
-Justice/Municipal Courts of Record
-In accordance with Senate Bill 267 (2007), justice or municipal courts that are currently, or will become, courts of record and those that cease operating as a court of record are to file a declaration to that effect with the Supreme Court for acknowledgement.
-
-	Acknowledgements as Courts of Record:
-
-	West Linn
-	St. Helens
-	Lake Oswego
-	Beaverton	
-	Florence
-	Milwaukie
-
-
-
-Why would I put this personal info here? 
-Firstly, I love Linny's place so much and since he has called Oregon home just like me for a long time, I'm sure he wont mind anyway.
-
-I tried to give up Linny's kernel and failed, if you can't beat em , JOIN EM.
-Seriously, why did I fail so miserably with the BSD's and my projects?
-Because i'm not skilled enough in C/C++ yet. I didnt complelty fail, I just realized the other kernels don't have all the man hours that have been put into Linux, which Linny did not do by himself.  So yeah, I'm back on the Redhat and Linny Bandwagon for now and I will return to xBSD more as my programming skills increase slowly.
-
-I know what many have told you, this is not a place for personal whatever.
-Lucky for us all I'm limiting this to my readme and not the actual scripts, scripts are all business, as 'they' say.
-
-1. This is not the workplace.
-2. Even in the workplace you can not help but know personal things about one another though visual observance, before you talk.
-3. Many people just get uncomfortable with the idea because they like to pack their emotions in another compartment.
-4. When you meet strangers in public humans generally are on their best behavior, in this environment its not the same.
-5. I and other people with personality issues such as Bi-polar don't intend to be "adversarial or abrasive", but generally 	 I think I can safely say many have higher expectations than others about interactions, I am one. Conversely, some are carefree about them and care not to address uncomfortable talk, good plan if we were robots! We are not all cut from the same cloth.
-6. Keep in mind, just like a Autustic person can overload at times, other disorders have similar problems with interactions.
-
-
-Other Warnings:
-My scripting skills I consider all my work previous computer science work before this was practice, as this was my first serious shell script project. I'm not a professionally trained computer science person, I'm a hobbyist though I worked in IT years ago as a admin and in help desk(s). A GED and a few community college credits are  my 'current' highest education, so easy on the judgements, your lucky I can type. :) Seriously, I do have some IT Certs as well, but no formal academic computer science training. I did start a couple php/python classes once but I finished neither as it was a difficult time and environment for me to be attempting it. Fyi, most admin and help desk work is NOT computer science ojt. As I was told years ago by many potential employers and random peers, "I am not an engineer." I'm over that painful reality(though I actually claimed to be one in the first place), so you call me what you want NOW ....Engineers! Technician, crazy, whatever! 
-Point, Due to lack of enough formal mathematics and Com Sci backing me up, you will find knowledge gaps and errors in my hobby work. 
-However, my imperfections do not stop me from enjoying this work, I enjoy Computer Science so much, that It's a life goal(top of the bucket list) that I finish somewhere with a least a ComSci Minor BA/BS Degree. I think I've covered this good enough for now or else I'll write a book in the middle of a shell script readme file. 
-
-Do not stop learning mathematics and logic if your career choice may be in Computer Science, you can never get enough or too much. I'm lucky that I'm blessed with the ability to do many things and I have tried/done. Change is my friend, I understand it is not everyones comforatable pal. So take a lesson from me, like computing, do all your math or else "You can't have any pudding if you dont' eat your meat!" :)
-
 Below is the readme from (SF, where you can download the ISOs, for now)
 *Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
 
