@@ -1,3 +1,6 @@
+THIS PROJECT IS DEPRECATED and NEEDS UPDATING TO 0.29.X
+
+
 The automythsvr-eit-stages are where the main coding is, that makes the automythsvr project work. It's a rather simple shell script installer program with examples I took straight from the book(s) and modified for my use.
 Also note these scripts were not designed to be used seperately originally, but I will work to make them more distro agnostic. The live config also has a lot still in it related to setting up the ISO, but its quite boring stuff that I just didn't put in a rpm yet.
 
