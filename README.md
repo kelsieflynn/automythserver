@@ -14,6 +14,12 @@ Below is the readme from (SF, where you can download the ISOs, for now)
 
 ***
 
+---
+
+*EVERYTHING DOWN HERE IS A README FROM A OLDER REDHAT DISTRO I USED TO BUILD AND MAINTAIN* ITS JUST HERE FOR HISTORY OF HOW THE AUTOMYTHSVR-EIT SCRIPTS ARE/WERE USED*
+---
+
+
 Welcome to Automythsvr HDHR EIT!
 ATSC OTA 8vsb Build.
 
